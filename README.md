@@ -1,6 +1,10 @@
-In our project, we implemented simplified versions of two state-of-the-art architectures for multi-object detection in
+In this project, we implemented simplified versions of two state-of-the-art architectures for multi-object detection in
 YOLOv3 and MDOD. Each directory contains the code needed to run the models and instructions on how to run them.
-Below, we cite references for code that we used for this project to develop our models.
+
+
+
+
+References:
 
 Link to Ultralytics' Respository for YOLOv3: https://github.com/ultralytics/yolov3
 
